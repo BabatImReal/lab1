@@ -1,0 +1,9 @@
+def SUM(x,y):
+    return x+y
+
+print(SUM(1,4))
+
+
+
+DEF SUBTRACT():
+	return
