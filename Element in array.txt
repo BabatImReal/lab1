@@ -1,0 +1,4 @@
+array = [34,65,64,83,23]
+
+for i in array:
+    print(i)

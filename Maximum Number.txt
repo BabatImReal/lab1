@@ -1,0 +1,4 @@
+array = [75,66,78,22,44]
+
+array.sort()
+print(array[-1])
