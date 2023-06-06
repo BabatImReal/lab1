@@ -1,0 +1,9 @@
+def SUM():
+	a
+	return
+
+
+
+
+DEF SUBTRACT():
+	return
